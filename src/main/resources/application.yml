@@ -1,0 +1,10 @@
+#spring:
+#  profiles:
+#    active: dev
+
+javafx:
+  stage:
+    resizable: false
+    # Application Title
+    title: Demo
+
